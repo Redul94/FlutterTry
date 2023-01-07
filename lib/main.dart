@@ -41,7 +41,8 @@ class _NinjaCardState extends State<NinjaCard> {
           // ignore: prefer_const_literals_to_create_immutables
           children: <Widget>[
             const CircleAvatar(
-              backgroundImage: AssetImage('assts/image4.jpg'),
+              backgroundImage: AssetImage('asse
+              ts/image4.jpg'),
               radius: 50.0,
             ),
             const Text(
