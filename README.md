@@ -1,16 +1,17 @@
-# ninja_id
 
-A new Flutter project.
+# Personal Details
 
-## Getting Started
+A flutter apk where anyone can save his/her details.
 
-This project is a starting point for a Flutter application.
+## Install in your editor
 
-A few resources to get you started if this is your first Flutter project:
+cli command
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+git clone https://github.com/Redul94/FlutterTry
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter pub get
+
+flutter run
+
+## Output
+![image](https://github.com/user-attachments/assets/c7cd4434-c119-44f5-b7dd-3a73798720bd)
